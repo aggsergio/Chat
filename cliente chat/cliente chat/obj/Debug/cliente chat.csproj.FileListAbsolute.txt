@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\cliente chat\cliente chat\bin\Debug\cliente chat.exe.config
+C:\Users\sergi\source\repos\cliente chat\cliente chat\bin\Debug\cliente chat.exe
+C:\Users\sergi\source\repos\cliente chat\cliente chat\bin\Debug\cliente chat.pdb
+C:\Users\sergi\source\repos\cliente chat\cliente chat\obj\Debug\cliente chat.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\cliente chat\cliente chat\obj\Debug\cliente_chat.Form1.resources
+C:\Users\sergi\source\repos\cliente chat\cliente chat\obj\Debug\cliente_chat.Properties.Resources.resources
+C:\Users\sergi\source\repos\cliente chat\cliente chat\obj\Debug\cliente chat.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\cliente chat\cliente chat\obj\Debug\cliente chat.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\cliente chat\cliente chat\obj\Debug\cliente chat.exe
+C:\Users\sergi\source\repos\cliente chat\cliente chat\obj\Debug\cliente chat.pdb
